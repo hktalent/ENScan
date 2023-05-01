@@ -3,7 +3,7 @@ chardet==4.0.0
 click==8.0.1
 colorama==0.4.4
 et-xmlfile==1.1.0
-Flask==2.0.1
+Flask==2.3.2
 idna==2.10
 itsdangerous==2.0.1
 Jinja2==3.0.1
